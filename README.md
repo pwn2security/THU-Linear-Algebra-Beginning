@@ -4,7 +4,7 @@ This is a project for communicating and discussing Tsinghua University’s book 
 此项目将用于共享《线性代数入门》 清华大学出版社一书的答案，欢迎各位学者进行讨论。
 # 仓库说明
 我们用以提交作业的开源仓库主要文件树如下：
-```
+.
 ├── LICENSE
 ├── README.md
 ├── README.pdf
@@ -25,5 +25,4 @@ This is a project for communicating and discussing Tsinghua University’s book 
     ├── paper
     ├── pic
     └── quantum-error.md
-```
 
